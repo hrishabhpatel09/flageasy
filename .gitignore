@@ -1,0 +1,7 @@
+build/
+build-*/
+myenv/
+__pycache__/
+.DS_Store
+*.o
+*.dylib
